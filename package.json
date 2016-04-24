@@ -1,0 +1,11 @@
+{
+  "name": "node-test",
+  "version": "0.1.0",
+  "description": "simple node test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "SToneX",
+  "license": "MIT"
+}
